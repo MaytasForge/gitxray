@@ -2,7 +2,7 @@
 
 
 
-!\[demo](screenshot.png)
+![demo](screenshot.png)
 
 **X-ray for any git repository.** One file, zero dependencies, one command.
 

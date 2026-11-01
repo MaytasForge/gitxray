@@ -1,4 +1,4 @@
-# 🩻 gitxray
+#  GITXRAY
 
 ![demo](screenshot.png)
 
